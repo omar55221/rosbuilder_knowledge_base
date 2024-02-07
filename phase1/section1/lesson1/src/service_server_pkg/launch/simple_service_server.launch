@@ -1,0 +1,3 @@
+       <launch>
+         <node name="service_server_node" type="simple_service_server" pkg="service_server_pkg"/>
+       </launch>
